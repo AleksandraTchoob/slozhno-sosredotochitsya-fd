@@ -368,6 +368,7 @@
       "sunset-card sunset-card ice-cream-card"
       "tape-card books-card ice-cream-card"
       "tape-card street-card street-card";
+    justify-content: center;
   }
 
   .footer {
