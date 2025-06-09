@@ -38,13 +38,10 @@
   --heading-color: #FF0070;
   --text-color: #F1B2CE;
   --hover-color: rgba(255, 0, 112, 0.4);   
-  }
   
-  .header__pseudo-element {
-    display: block;
-  }
-
+  .header__pseudo-element,
   .header__pseudo-element::after {
     display: block;
+  }
   }
 }
